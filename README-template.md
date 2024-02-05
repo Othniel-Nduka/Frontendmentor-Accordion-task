@@ -109,4 +109,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
+I want to give some credit to Online Tutorials YouTube channel for helping me understanding better the creation of an accordion. Credit goes to w3school for their awesome HowTo section, it really helped.
+
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
