@@ -31,7 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![](./design/My_Screenshot/screenshot1.png)
+![](./design/My_Screenshot/screenshot2.png)
+![](./design/My_Screenshot/screenshot3.png)
+![](./design/My_Screenshot/screenshot4.png)
+![](./design/My_Screenshot/screenshot5.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -54,13 +59,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - Desktop-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+
+I learnt the use of the forEach statement
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
