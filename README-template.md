@@ -38,13 +38,8 @@ Users should be able to:
 ![](./design/My_Screenshot/screenshot4.png)
 ![](./design/My_Screenshot/screenshot5.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+The Images above are the screenshot of my solution.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -52,6 +47,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+This is webpage was very tasking but neccessary one as it has helped me know where I am lacking in the area of my development. This was a very good one. Thank you Frontend Mentor.
 
 ### Built with
 
@@ -62,7 +59,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-I learnt the use of the forEach statement
+In the area of my Javascript I have learnt by fraustrations another way of looping and adding
+eventListener to the DOM. It was a very annoying time, I have to say that. I have also found out why we use the console.log() function. I always thought it was 
+unneccessary in the use of building websites.
+
+In the area of CSS, I have realized that the use of flexbox, margin, and other 
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
