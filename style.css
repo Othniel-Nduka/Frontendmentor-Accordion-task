@@ -5,6 +5,12 @@
     --Dark-purple: hsl(292, 42%, 14%);
 }
 
+body{
+    height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -108,12 +114,12 @@ body{
 
 .accordion-container .acc-label.change .minus{
     display: block;
-    transition: all 0.1s;
+    transition: all 0.1s ease-in-out;
 }
 
 .accordion-container .acc-label.change .plus{
     display: none;
-    transition: all 0.1s;
+    transition: all 0.1s ease-in-out;
 }
 
 .accordion-container .accordion-box .acc-label:hover, .accordion-container .accordion-box .acc-label.acc-label.change{
@@ -130,14 +136,14 @@ body{
     font-weight: 400;
     color: var(--Grayish-purple);
     word-spacing: 1px;
-    transition: all 0.1s;
+    transition: 0.5s;
 }
 
 .accordion-box.change .acc-text{
     top: 0px;
     display: block;
     z-index: 100;
-    transition: all 1.5s;
+    transition: 1.5s;
 }
 
 
